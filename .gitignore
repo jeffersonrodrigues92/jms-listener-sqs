@@ -1,3 +1,41 @@
+<<<<<<< HEAD
 .idea
 target
 kafka-beginners-course.iml
+=======
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+### VS Code ###
+.vscode/
+.mvn/
+mvnw
+mvnw.cmd
+
+>>>>>>> 2348989b83029f799e12359bce5e42e84c6dc324
